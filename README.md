@@ -1,20 +1,15 @@
 # Abdul Muhammad
 
-Aspiring Cybersecurity Analyst working through the Google Cybersecurity Professional Certificate.
+I am an aspiring cybersecurity analyst working through the Google Cybersecurity Professional Certificate. My focus is on defensive security, and I am building practical skills in threat detection, incident response, and security operations. My goal is to work as an entry level SOC or Security Analyst.
 
-I am building hands-on defensive security skills with a focus on threat detection, incident response, and security operations. My goal is to work as an entry-level SOC or Security Analyst.
-
-- Currently building my cybersecurity portfolio: https://github.com/abdulmuhammadcyber-crypto/cybersecurity-portfolio
-- Interested in threat detection, incident response, and SOC operations
-- Learning SIEM, MITRE ATT&CK, Python for security, and network analysis
-- Email: Abdulmuhammadcyber@gmail.com
+Right now I am putting together my cybersecurity portfolio, which you can find at https://github.com/abdulmuhammadcyber-crypto/cybersecurity-portfolio. Alongside the certificate I am learning SIEM, MITRE ATT&CK, Python for security, and network analysis.
 
 ## Tools and Technologies
 
-Linux, Python, SQL, Wireshark, Splunk, tcpdump, NIST CSF, MITRE ATT&CK
+The tools I work with include Linux, Python, SQL, Wireshark, Splunk, tcpdump, the NIST Cybersecurity Framework, and MITRE ATT&CK.
 
 ## Featured Projects
 
-- [Internal Security Audit](https://github.com/abdulmuhammadcyber-crypto/cybersecurity-portfolio/blob/main/projects/01-security-audit.md): risk assessment and controls review using the NIST CSF
-- [Incident Response Playbook](https://github.com/abdulmuhammadcyber-crypto/cybersecurity-portfolio/blob/main/projects/02-incident-response-playbook.md): a full ransomware response playbook
-- [Network Traffic Analysis](https://github.com/abdulmuhammadcyber-crypto/cybersecurity-portfolio/blob/main/projects/03-network-analysis.md): packet analysis of a SYN flood using Wireshark and tcpdump
+My internal security audit covers a risk assessment and controls review using the NIST Cybersecurity Framework. My incident response playbook walks through a full ransomware response from detection to recovery. My network traffic analysis project uses Wireshark and tcpdump to investigate a denial of service attack at the packet level. All of these live in my portfolio repository linked above.
+
+You can reach me by email at Abdulmuhammadcyber@gmail.com.
