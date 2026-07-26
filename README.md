@@ -10,6 +10,6 @@ The tools I work with include Linux, Python, SQL, Wireshark, Splunk, tcpdump, th
 
 ## Featured Projects
 
-My internal security audit covers a risk assessment and controls review using the NIST Cybersecurity Framework. My incident response playbook walks through a full ransomware response from detection to recovery. My network traffic analysis project uses Wireshark and tcpdump to investigate a denial of service attack at the packet level. All of these live in my portfolio repository linked above.
+My internal security audit covers a risk assessment and controls review using the NIST Cybersecurity Framework. My incident response playbook walks through a full ransomware response from detection to recovery. My network traffic analysis project uses Wireshark and tcpdump to investigate a denial of service attack at the packet level. I have also documented a home asset inventory and classification, a risk register for a commercial bank, and a data leak worksheet using least privilege and NIST SP 800-53 AC-6. All of these live in my portfolio repository linked above.
 
 You can reach me by email at Abdulmuhammadcyber@gmail.com.
